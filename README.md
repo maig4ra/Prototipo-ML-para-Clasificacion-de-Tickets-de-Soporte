@@ -13,7 +13,10 @@ Beneficios:
 - Disminución de la saturación y burnout del equipo de atención.
 - Escalabilidad para manejar volumenes crecientes de consultas.
 
-Destinado a empresas con alto volumnen de atención al cliente que buscan automatizar y optimizar sus procesos administrativos
+Destinado a empresas con alto volumnen de atención al cliente que buscan automatizar y optimizar sus procesos administrativos.
+
+
+* GRUPO 2
 
 
 
