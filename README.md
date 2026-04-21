@@ -16,7 +16,12 @@ Beneficios:
 Destinado a empresas con alto volumnen de atención al cliente que buscan automatizar y optimizar sus procesos administrativos.
 
 
-* GRUPO 2
+# GRUPO 2:
+- Alejandro, Jessica Belén
+- Durán, Alicia
+- Gimenez Soria, Melina Jaqueline
+- Guerrero Daniela Viviana
+- Vallejo Guerrero Nicolás Ezequiel 
 
 
 
