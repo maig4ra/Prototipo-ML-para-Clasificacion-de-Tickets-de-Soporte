@@ -1,2 +1,4 @@
 # Prototipo-ML-para-Clasificacion-de-Tickets-de-Soporte
 Los departamentos de atención al cliente se saturan con miles de correos electrónicos y consultas diarias que deben ser categorizadas y derivadas manualmente. Este modelo clasifica las consultas por departamentos o áreas, urgencia, tema (facturacion, falla tecnica, etc). Enfocado a grandes empresas para la automatizacion de procesos administrativos. 
+
+
