@@ -1,1 +1,1 @@
-NaN
+Duarante el entrenamiento de Random Forest con el dataset filtrado con solo los correos en ingles 
