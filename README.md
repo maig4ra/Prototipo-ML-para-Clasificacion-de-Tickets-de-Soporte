@@ -30,7 +30,7 @@ Sistema de clasificación automática de tickets de soporte usando **Random Fore
 - imbalanced-learn (SMOTE)
 - matplotlib, seaborn
 
-##Beneficios
+## Beneficios
 - Reducción del tiempo de respuesta a clientes.
 - Disminución de la saturación y burnout del equipo de atención.
 - Escalabilidad para manejar volumenes crecientes de consultas.
