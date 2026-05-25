@@ -1,4 +1,4 @@
-EN el siguiente enlace se encuntan guardados los archivos:
+En el siguiente enlace se encuentran guardados los archivos:
 
 * mejor_modelo_priority_RF.pkl
 * mejor_modelo_type_RF.pkl
