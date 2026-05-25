@@ -1,4 +1,34 @@
 # Prototipo-ML-para-Clasificacion-de-Tickets-de-Soporte
+
+Sistema de clasificación automática de tickets de soporte usando **Random Forest + SMOTE**. El cual tiene como objetivo automatizar la categorización y derivación de tickets de soporte para reducir la carga manual en el equipo de atención al cliente.
+
+## Características Principales
+- Clasificación multietiqueta: `type`, `priority` y `queue`
+- Soporte para texto en **inglés**
+- Uso de **TF-IDF** + **Random Forest**
+- Balanceo de clases con **SMOTE**
+- Mejor rendimiento en `type` (90% accuracy)
+
+## Resultados
+
+| Variable     | Accuracy | F1-Score (weighted) |
+|--------------|----------|---------------------|
+| `type`       | 0.90     | 0.8935              |
+| `priority`   | 0.75     | 0.7476              |
+| `queue`      | 0.73     | 0.7267              |
+
+---
+
+## Tecnologías Utilizadas
+- Python 3
+- scikit-learn
+- pandas, numpy
+- imbalanced-learn (SMOTE)
+- matplotlib, seaborn
+
+
+
+
 Los departamentos de atención al cliente se saturan con miles de correos electrónicos y consultas diarias que deben ser categorizadas y derivadas manualmente. 
 
 Este modelo de Machine Learning Supervisado tiene como objetivo automatizar este proceso mediante la Clasificación de Tickets de Soporte. El sistema analiza el contenido del email (asunto+cuerpo) y predice dimensiones como: 
