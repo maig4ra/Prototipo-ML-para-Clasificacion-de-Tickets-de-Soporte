@@ -10,7 +10,7 @@ Sistema de clasificación automática de tickets de soporte usando **Random Fore
 - Clasificación multietiqueta: `type`, `priority` y `queue`
 - Soporte para texto en **inglés**
 - Uso de **TF-IDF** + **Random Forest**
-- Balanceo de clases con **SMOTE**
+- Balanceo de clases con **SMOTE** (datos sinteticos)
 - Mejor rendimiento en `type` (90% accuracy)
 
 ## Resultados
