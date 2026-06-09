@@ -1,4 +1,4 @@
-[Intrucciones para la instalación]
+[INSTRUCCIONES PARA LA INSTALACIÓN]
 
 Este clasificador esta diseñado enteramente con el objetivo de funcionar en la nube, utilizando Google Drive y una de las herramientas del mismo; que se utilizará para montar el servidor necesario para el modelo, llamada Google Colaboratory.
 
