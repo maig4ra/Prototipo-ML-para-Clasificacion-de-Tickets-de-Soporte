@@ -1,2 +1,2 @@
 [Intrucciones para la instalacion]
- 1. En google Drive cre una carpeta en la raiz con el siguiente nombre de "Modelos_Tickets" donde deberas guardar los archivos del modelo que los puedes encontrar en la carpeta ´models´ de este mismo direcorio. Son 4 archivops en total
+ 1. En google Drive cree una carpeta en la raiz con el siguiente nombre de "Modelos_Tickets" donde deberas guardar los archivos del modelo que los puedes encontrar en el siguiente enlace: https://drive.google.com/drive/folders/1NApllGhjOdg6rK8cp3ZwXDhUK0bN6R1a?usp=drive_link
