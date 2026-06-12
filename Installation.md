@@ -6,4 +6,4 @@ Este clasificador esta diseñado integramente con el objetivo de funcionar en la
 
  2. Ahora suba a  su Google Drive el archivo llamado "Server_Ticket_Classifier_for_Google_Colab.ipynb" ubicado en la carpeta "notebooks" de este mismo repositorio. Simplemente descargue el archivo y guarde en su nube.
 
- 3. Haz doble click sobre el archivo previamente mencionado y conecta el entorno de ejecución dejandolo con la configuración por defecto  ( se recomienda consultar el siguiente video de 2 minutos: https://www.youtube.com/watch?v=2-rFtM6GmUk ) y continúa con las intrucciones en Google Colab.
+ 3. Haz doble click sobre el archivo previamente mencionado y conecta el entorno de ejecución dejando la configuración por defecto  ( se recomienda consultar el siguiente video de 2 minutos: https://www.youtube.com/watch?v=2-rFtM6GmUk ) y continúa con las intrucciones detallada en la notebook del clasificador.
