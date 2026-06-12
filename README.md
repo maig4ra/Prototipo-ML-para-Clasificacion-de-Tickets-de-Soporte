@@ -1,7 +1,7 @@
 # Prototipo-ML-para-Clasificacion-de-Tickets-de-Soporte
 
 ### ***[Para probar el Modelo por favor consulta el archivo "Installation.md"]***
-### ***[Video de Demostración]:*** https://drive.google.com/file/d/1M6whJJsUWoz_3IwJ4zWuZ8V7VLBbsdKE/view?usp=drivesdk
+### ***[Demo Prototipo]:*** https://drive.google.com/file/d/1M6whJJsUWoz_3IwJ4zWuZ8V7VLBbsdKE/view?usp=drivesdk
 Sistema de clasificación automática de tickets de soporte usando **Random Forest + SMOTE**. El cual tiene como objetivo automatizar la categorización y derivación de tickets de soporte para reducir la carga manual en el equipo de atención al cliente. El sistema analiza el contenido del email (asunto+cuerpo) y predice dimensiones como: 
 
 - Departamento o Área.
