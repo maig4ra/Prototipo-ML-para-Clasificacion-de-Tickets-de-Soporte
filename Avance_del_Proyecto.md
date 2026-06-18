@@ -1,4 +1,4 @@
-# Avance del Proyecto (26/05/26)
+# Avance 2 del Proyecto (26/05/26)
 
 Durante el análisis exploratorio inicial del dataset filtrado solo con los correos en inglés (emails_ingles.csv) se encontró que muchas clases, de las variables objetivo `type`, `priority` y `queue` estaban considerablemente desbalanceadas; lo que podría generar que el modelo clasifique erróneamente las clases minoritarias como mayoritarias por el peso que estas obtuviesen.
 
