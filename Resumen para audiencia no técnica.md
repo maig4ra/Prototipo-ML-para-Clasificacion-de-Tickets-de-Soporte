@@ -1,4 +1,4 @@
-Este sistema es un "clasificador automático" (basado en Inteligencia Artificial) diseñado para automatizar la categorización y derivación de consultas por correos electrónicos al sector de atención al cliente. Su objetivo principal es reemplazar la gestión manual para evitar la saturación en los departamentos de soporte. 
+Este sistema es un *"clasificador automático"* (basado en Inteligencia Artificial) diseñado para automatizar la categorización y derivación de consultas por correos electrónicos al sector de atención al cliente. Su objetivo principal es reemplazar la gestión manual para evitar la saturación en los departamentos de soporte. 
 
 📌 ¿Qué hace este sistema?
 
