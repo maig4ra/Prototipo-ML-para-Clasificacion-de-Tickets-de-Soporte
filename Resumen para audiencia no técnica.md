@@ -6,7 +6,7 @@ Este sistema es un "clasificador automático" (basado en Inteligencia Artificial
 2.	Lo categoriza: Decide qué tipo de problema es (por ejemplo, si es un incidente técnico o solo una solicitud de información).
 3.	Lo deriva: Decide a qué departamento o equipo de trabajo debe ser enviado para que lo resuelvan.
 4.	Tiene una página web fácil de usar: El sistema te da un enlace de internet donde puedes pegar un texto de un cliente y ver cómo la inteligencia artificial lo clasifica automáticamente.
-5.	
+	
 🎯 ¿Qué tan confiable es?
 
 El sistema es bastante inteligente, ya que aprendió leyendo miles de ejemplos anteriores, pero tiene distintos niveles de acierto dependiendo de lo que se le pida:
