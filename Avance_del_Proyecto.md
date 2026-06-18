@@ -1,6 +1,6 @@
 # Avance del Proyecto (26/05/26)
 
-Durante el análisis exploratorio inicial del dataset filtrado solo con los correos en inglés (emails_ingles.csv) se encontró que muchas clases, de las variables objetivo type, priority y queue estaban considerablemente desbalanceadas; lo que podría generar que el modelo clasifique erróneamente las clases minoritarias como mayoritarias por el peso que estas obtuviesen.
+Durante el análisis exploratorio inicial del dataset filtrado solo con los correos en inglés (emails_ingles.csv) se encontró que muchas clases, de las variables objetivo `type`, `priority` y `queue` estaban considerablemente desbalanceadas; lo que podría generar que el modelo clasifique erróneamente las clases minoritarias como mayoritarias por el peso que estas obtuviesen.
 
 Antes de tratar con ese inconveniente, se realizo una Lematización de los emails concatenados (subject + body_text) para reducir la dimensionalidad de los datos y que el modelo resultase más preciso y evitar que el sistema trate variaciones gramaticales de una misma palabra como conceptos distintos. Luego se procedió con la vectorización de las palabras ya lematizadas.
 
